@@ -1,3 +1,5 @@
+''' Developed by Rishita Mukherjee '''
+
 import java.util.Scanner;
 public class Project2_1037 {
 
@@ -133,3 +135,5 @@ class VideoStore {
 		System.out.println("------------------------------------------");
 	}
 }
+
+''' Developed by Rishita Mukherjee '''
